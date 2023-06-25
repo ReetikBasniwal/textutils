@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textutilsnpm%20install%20--save%20gh-pages/static/css/main.1077472a.css",
+    "main.js": "/textutilsnpm%20install%20--save%20gh-pages/static/js/main.ce610ac4.js",
+    "static/js/787.719ec76d.chunk.js": "/textutilsnpm%20install%20--save%20gh-pages/static/js/787.719ec76d.chunk.js",
+    "index.html": "/textutilsnpm%20install%20--save%20gh-pages/index.html",
+    "main.1077472a.css.map": "/textutilsnpm%20install%20--save%20gh-pages/static/css/main.1077472a.css.map",
+    "main.ce610ac4.js.map": "/textutilsnpm%20install%20--save%20gh-pages/static/js/main.ce610ac4.js.map",
+    "787.719ec76d.chunk.js.map": "/textutilsnpm%20install%20--save%20gh-pages/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1077472a.css",
+    "static/js/main.ce610ac4.js"
+  ]
+}
